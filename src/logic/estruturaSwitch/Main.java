@@ -16,12 +16,14 @@ public class Main {
         DiaDaSemana Dia = DiaDaSemana.SEGUNDA;
         
         switch (Dia) {
-            case SEGUNDA : System.out.println(1); break;
-            case TERCA : System.out.println(2); break;
-            case QUARTA : System.out.println(3); break;
-            case QUINTA : System.out.println(4); break;
-    
+            case SEGUNDA:
+                System.out.println(1);
+                break;
+        
+            default:
+                break;
         }
+    System.out.println(10);
     }
     
 }
