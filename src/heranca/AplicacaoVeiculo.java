@@ -17,12 +17,7 @@ public class AplicacaoVeiculo {
         motos.setAno(2024);
         motos.dados();
 
-        System.out.println("CAMINHÕES: ");
-        Caminhao cam = new Caminhao();
-        cam.setMarca("MERCEDES");
-        cam.setModelo("Onibus");
-        cam.setAno(2015);
-        cam.dados();
+
 
         
     }
