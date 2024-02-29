@@ -1,4 +1,4 @@
-package poo;
+package heranca.poo;
 
 public class Pessoa {
     //atributos

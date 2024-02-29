@@ -1,4 +1,4 @@
-package heranca;
+package logic.condicoes;
 
 public class Veiculo {
 

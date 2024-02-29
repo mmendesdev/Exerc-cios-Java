@@ -1,5 +1,7 @@
 package heranca;
 
+import logic.condicoes.Veiculo;
+
 // extends, herança de veiculos, mesmos atributos e funções
 public class Carro extends Veiculo {
     

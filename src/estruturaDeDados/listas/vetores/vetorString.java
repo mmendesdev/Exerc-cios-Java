@@ -12,8 +12,8 @@ public class vetorString {
         estados[4] = "MT";
         estados[5] = "TC";
 
-        for(int i = 0; i <= estados.length; i ++){
-            System.out.println("Estados " + 1 + ":" + estados[i]);
+        for(int i = 0; i <= 5; i ++){
+            System.out.println(estados[i]);
         }
     }
     
