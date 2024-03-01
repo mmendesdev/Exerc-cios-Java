@@ -18,7 +18,23 @@ public class Main {
         switch (Dia) {
             case SEGUNDA:
                 System.out.println(1);
+        switch (Dia) {
+            case TERCA:
+            System.out.println("Dentista");
+        switch (Dia) {
+            case QUARTA:
+            System.out.println("Dentista");
+        switch (Dia) {
+            case QUINTA:
+            System.out.println("Dentista");
+        switch (Dia) {
+            case SEXTA:
+            System.out.println("Dentista");   
+        
+            default:
                 break;
+        }
+        
         
             default:
                 break;
