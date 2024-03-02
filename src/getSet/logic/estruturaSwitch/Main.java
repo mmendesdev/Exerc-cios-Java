@@ -1,4 +1,4 @@
-package logic.estruturaSwitch;
+package getSet.logic.estruturaSwitch;
 
 public class Main {
      

@@ -1,4 +1,4 @@
-package logic.repeticoes;
+package getSet.logic.repeticoes;
 
 public class MainPara {
     public static void main(String[] args) {

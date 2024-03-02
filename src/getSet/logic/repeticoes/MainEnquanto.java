@@ -1,4 +1,4 @@
-package logic.repeticoes;
+package getSet.logic.repeticoes;
 
 public class MainEnquanto {
     public static void main(String[] args) {

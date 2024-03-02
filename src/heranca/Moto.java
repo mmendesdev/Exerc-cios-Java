@@ -1,6 +1,6 @@
 package heranca;
 
-import logic.condicoes.Veiculo;
+import getSet.logic.condicoes.Veiculo;
 
 //add um método "empinar" apenas na class moto, para que outras class nao herde
 public class Moto extends Veiculo {

@@ -1,4 +1,4 @@
-package logic.condicoes;
+package getSet.logic.condicoes;
 import java.util.Scanner;
 
 //descubra se o usuario pode votar para eleição

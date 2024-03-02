@@ -1,4 +1,4 @@
-package logic.condicoes;
+package getSet.logic.condicoes;
 
 public class Veiculo {
 
